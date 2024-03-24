@@ -21,15 +21,10 @@ export class WebActions {
                 width: width,
                 height: height
             },
-            
             quality: 20,
             type: 'jpeg',
             timeout: 1000,
             fullPage: true 
         });
-    }
-
-    async addScreenshotToReport(name: string, width: number, height: number) {
-        await testInfo.attach('name', {body: await page.screenshot(), contentType: 'image/jpeg'});
     }
 }
