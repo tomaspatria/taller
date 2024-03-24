@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Patria</h1>
 <h3 align="center">A passionate QA Automation Engineer</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">The project was created in Playwright with Typescript</h3>
 <p align="left">
 </p>
 
